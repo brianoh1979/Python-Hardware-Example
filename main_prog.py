@@ -1,6 +1,10 @@
+# Tensorflow object detection package to build machine learning model for identifying multiple objects in single image
 import object_detection_mode
+# Package for MobileNet Convolutional Neural Network (CNN) developed in Python programming language with Keras & TensorFlow enabled for Graphic Processing Unit (GPU)
 import mobilenet
+# Package which provides helpers for computing similarities between arbitrary sequences.
 import distance
+# module to control the GPIO interface on Raspbery Pi
 import RPi.GPIO as GPIO
 import os,time
 
